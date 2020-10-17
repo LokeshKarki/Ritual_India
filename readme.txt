@@ -1,2 +1,2 @@
 Ritual India
-Just run Index.html using Live Server Extension on Vs Code Editor
+Just run index.html using Live Server Extension on Vs Code Editor
